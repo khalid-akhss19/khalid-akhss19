@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux-toolkit, deep learning**
 
-- 👨‍💻 All of my projects are available at [https://khalidghulbi.netlify.app/](https://khalidghulbi.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://devkhalid.tech/](http://devkhalid.tech/)
 
 - 💬 Ask me about **react, JavaScript, and material UI**
 
