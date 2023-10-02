@@ -2,11 +2,7 @@
 <h1 >Hi 👋, I'm Khalid Hussain</h1>
 <h3 >A Passionate Frontend Developer</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/khalidghulbi" target="blank">
-- 🌱 I’m currently learning **MERN Stack & Prompt  Engineering **
-
+- 🌱 I’m currently learning MERN Stack & Prompt  Engineering 
 - 🔸 All of my projects & updates are available on my GitHub
 - 👨‍💻 Visit my Portfolio Here: [http://devkhalid.tech/](http://devkhalid.tech/)
 
