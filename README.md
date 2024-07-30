@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 >Hi 👋, I'm Khalid Hussain</h1>
 <h3 >A Passionate Web Developer & IAM Administrator</h3>
 
