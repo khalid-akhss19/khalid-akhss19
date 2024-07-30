@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN Stack, Identity & Access Management (Sailpoint, ForgeRock) & Prompt  Engineering 
 - 🔸 All of my projects & updates are available on my GitHub
 - 📝 I regularly write articles on [medium.com/@khalid.ghulbi22](https://medium.com/@khalid.ghulbi22)
-- 👨‍💻 Visit my Portfolio Here: [devkhalid.tech](https://www.devkhalid.tech/) Or [Here](https://khalidhussain.framer.website/)
+- 👨‍💻 Visit my Portfolio Here: [devkhalid.tech](https://www.devkhalid.tech/) or [Here](https://khalidhussain.framer.website/)
 
 
 
