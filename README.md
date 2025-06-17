@@ -13,8 +13,8 @@ I design and deploy secure, scalable IAM solutions that empower enterprises to p
 
 ```text
 🛡️ IAM Tech Stack:
-• Identity Governance: SailPoint IIQ, IdentityNow
-• CIAM Platforms: Okta, PingFederate, PingOne
+• Identity Governance: SailPoint IIQ
+• IAM Platforms: Okta, PingFederate, Sailpoint 7 EntraID
 • Authentication Protocols: SAML 2.0, OIDC, OAuth 2.0
 • Provisioning: SCIM, REST APIs, Custom Connectors
 • Web Technologies: JavaScript, Python, PowerShell
