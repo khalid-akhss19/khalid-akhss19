@@ -22,7 +22,7 @@ Hello! I’m Khalid, an Identity and Access Management (IAM) Consultant. I desig
 
 • **User Support & Troubleshooting** – Resolving complex issues such as MFA failures, sync errors, and access denials across L1–L3 tiers.
 
-For me, IAM isn’t just technology—it’s about enabling people securely. My background in Computer Science, Web development gives me a unique advantage: I create identity solutions that are not only secure and compliant, but also intuitive and user-friendly.
+For me, IAM isn’t just technology—it’s about **enabling people** securely. My background in **Computer Science, Web development** gives me a unique advantage: I create identity solutions that are not only **secure and compliant**, but also intuitive and **user-friendly**.
 
 
 
