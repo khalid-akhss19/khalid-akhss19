@@ -11,7 +11,7 @@
 
 Hello! I’m Khalid, an Identity and Access Management (IAM) Consultant. I design and deploy secure, scalable IAM solutions that empower enterprises to protect identities without friction. With 3+ years of experience—including focused expertise in Okta, SailPoint, and PingFederate—I specialize in implementing comprehensive identity solutions, from SSO integrations and MFA enforcement to application onboarding, provisioning & deprovisioning, policy violation handling, SoD enforcement, joiner-mover-leaver (JML) processes, lifecycle management, and design documentation.
 
-```text
+
 🛡️ Core Responsibilities:
 • **Stakeholder Management** – Partnering with application teams (Salesforce, ServiceNow, SF) to gather requirements, select protocols (SAML, OIDC, OAuth), and plan phased rollouts.
 • **Application Integration** - Configuring SSO, automating provisioning (SCIM), and customizing login flows for seamless user experiences.
