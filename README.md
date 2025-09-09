@@ -13,6 +13,7 @@ Hello! I’m Khalid, an Identity and Access Management (IAM) Consultant. I desig
 
 
 🛡️ Core Responsibilities:
+
 • **Stakeholder Management** – Partnering with application teams (Salesforce, ServiceNow, SF) to gather requirements, select protocols (SAML, OIDC, OAuth), and plan phased rollouts.
 
 • **Application Integration** - Configuring SSO, automating provisioning (SCIM), and customizing login flows for seamless user experiences.
